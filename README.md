@@ -1,4 +1,7 @@
-## Hi there 👋
+<h3 align="center">👋 Hey there, I'm Calvin Pang !</h3>
+<p align="center">
+  <i>A passionate Software Engineer specializing in .NET 🚀</i>
+</p>
 
 <!--
 **CalvinPangch/CalvinPangch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
